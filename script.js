@@ -1,5 +1,5 @@
 const humberger = document.getElementById('humberger');
-const menu = document.getElementById('menu');
+const menu = document.getElementById('menu2');
 const menuClose = document.getElementById('menu-close');
 const menuItemsNode = document.getElementById('menu-items').childNodes;
 const worksSection = document.getElementById('works');
